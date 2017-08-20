@@ -1,0 +1,15 @@
+{
+  "name": "dockerfire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "datafire": "^2.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "datafire test $1"
+  },
+  "author": "Conrad Hollomon <conrad@operationcode.org>",
+  "license": "ISC"
+}
