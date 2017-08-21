@@ -1,9 +1,0 @@
-tests:
-  get_torvalds:
-    action: github/users.username.get
-    input:
-      username: torvalds
-  get_norvig:
-    action: github/users.username.get
-    input:
-      username: norvig
